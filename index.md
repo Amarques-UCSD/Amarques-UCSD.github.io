@@ -8,7 +8,7 @@ I'm sorry, I'm doing this very late. So here is my quote, by some other procrast
 > I leave all my assignments until last minute because diamonds are made under pressure.
 
 For coding, I don't know much of the languages asked on the form but I'll learn them. Here is a begining:
-`
+```
 <!DOCTYPE HTML>
 <html>
 
@@ -19,7 +19,7 @@ For coding, I don't know much of the languages asked on the form but I'll learn 
 </body>
 
 </html>
-`
+```
 The languages I'm more confident in are Java and C++, and I also know some python.
 I enjoyed CSE 140L, making the modules was interesting. However, I didn't like CSE 30 as much, however this may have been on me.
 As mentioned in the README.md of lab1 I like Processing. My uncle taught me and we made some small and wacky games in it.
