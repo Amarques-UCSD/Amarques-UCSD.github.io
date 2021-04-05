@@ -9,9 +9,16 @@ I'm sorry, I'm doing this very late. So here is my quote, by some other procrast
 
 For coding, I don't know much of the languages asked on the form but I'll learn them. Here is a begining:
 `
+<!DOCTYPE HTML>
+<html>
+
+<body>
   <script>
     alert( 'Hello, world!' );
   </script>
+</body>
+
+</html>
 `
 The languages I'm more confident in are Java and C++, and I also know some python.
 I enjoyed CSE 140L, making the modules was interesting. However, I didn't like CSE 30 as much, however this may have been on me.
@@ -19,8 +26,8 @@ As mentioned in the README.md of lab1 I like Processing. My uncle taught me and 
 
 This task makes me remember of a [blog](http://alexandredegr8.unblog.fr/) I had to create for my highschool French class.
 
-I haven't made any new sections. I'll make some new ones to [link](# TODO) .
-And samething for the [relative link](something.md).
+I haven't made any new sections. I'll make some new ones to [link](#TODO).
+And same thing for the [relative link](something.md).
 
 #### Hobbies
 Here are some things I enjoy:
