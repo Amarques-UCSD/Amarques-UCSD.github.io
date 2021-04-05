@@ -21,10 +21,10 @@ The languages I'm more confident in are Java and C++, and I also know some pytho
 I enjoyed CSE 140L, making the modules was interesting. However, I didn't like CSE 30 as much, however this may have been on me.
 As mentioned in the README.md of lab1 I like Processing. My uncle taught me and we made some small and wacky games in it.
 
-This task makes me remember of a [http://alexandredegr8.unblog.fr/](blog) I had to create for my highschool French class.
+This task makes me remember of a [blog](http://alexandredegr8.unblog.fr/) I had to create for my highschool French class.
 
-I haven't made any new sections. I'll make some new ones to [here](# TODO) .
-But I understand [something.md](relative links).
+I haven't made any new sections. I'll make some new ones to [# TODO](link) .
+And samething for the [relative link](something.md).
 
 #### Hobbies
 Here are some things I enjoy:
