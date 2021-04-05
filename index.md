@@ -9,15 +9,12 @@ I'm sorry, I'm doing this very late. So here is my quote, by some other procrast
 
 For coding, I don't know much of the languages asked on the form but I'll learn them. Here is a begining:
 ```
-<!DOCTYPE HTML>
 <html>
-
-<body>
-  <script>
-    alert( 'Hello, world!' );
-  </script>
-</body>
-
+ <head>
+ </head>
+ <body>
+   <h1>Hello World<h1>
+ </body>
 </html>
 ```
 The languages I'm more confident in are Java and C++, and I also know some python.
